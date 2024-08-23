@@ -6,63 +6,56 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Com qual frequência você separa seu lixo?",
+        enunciado: "perguntas?",
         alternativas: [
             {
-                texto: "Frequentemente",
+                texto: "resposta 1",
                 afirmacao: "afirmacao"
             },
             {
-                texto: "ás vezes",
+                texto: "resposta 2",
                 afirmacao: "afirmacao"            
             },
             {
-                texto: "Raramente",
+                texto: "resposta 3",
                 afirmacao: "afirmacao"
             }
             
         ]
     },
     {
-        enunciado: "Qual das seguintes práticas, é considerada sustentável?",
+        enunciado: "pergunta 2?",
         alternativas: [
              {
-                texto: "Desmatamento para expansão agrícola",
+                texto: "resposta 1",
                 afirmacao: "afirmacao"
             },
             {
-                texto: "Uso de sacolas plásticas descartaveis",
+                texto: "resposta 2",
                 afirmacao: "afirmacao"            
             },
             {
-                texto:  "Reutilização de reciclagem de materias",
+                texto: "resposta 3",
                 afirmacao: "afirmacao"
-            },
-             {
-                texto:  "Consumo excessivo de água potável",
-                afirmacao: "afirmacao"            
             },
             
         ]
     },
     {
-        enunciado: "Qual o principal benefício ambiental da reciclagem?",
+        enunciado: "pergunta 3",
         alternativas: [
             {
-                texto:  "Redução do consumo de energia",
+            
+                texto: "resposta 1",
                 afirmacao: "afirmacao"
             },
             {
-                texto: "Diminuição da poluição sonora.",
+                texto: "resposta 2",
                 afirmacao: "afirmacao"            
             },
             {
-                texto:   "Aumento da erosão do solo",
+                texto: "resposta 3",
                 afirmacao: "afirmacao"
-            },
-             {
-                texto:    "Aumento do desmatamento",
-                afirmacao: "afirmacao"            
             },
             
         ]
