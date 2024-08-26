@@ -6,56 +6,56 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "perguntas?",
+        enunciado: "Assinale a alternativa que NÃO apresenta um problema ambiental:",
         alternativas: [
             {
-                texto: "resposta 1",
-                afirmacao: "afirmacao"
+                texto: "A) Caça de diversos animais silvestres.",
+                afirmacao: "Certo"
             },
             {
-                texto: "resposta 2",
-                afirmacao: "afirmacao"            
+                texto: "B) Retirada da vegetação nativa local.",
+                afirmacao: "Errado"            
             },
             {
-                texto: "resposta 3",
-                afirmacao: "afirmacao"
+                texto: "C) Emissão de poluentes atmosféricos   ",
+                afirmacao: "Errado"
             }
             
         ]
     },
     {
-        enunciado: "pergunta 2?",
+        enunciado: "Como preservar árvores e florestas ",
         alternativas: [
              {
-                texto: "resposta 1",
-                afirmacao: "afirmacao"
+                texto: "A) Construindo uma casa na árvore",
+                afirmacao: "Errado"
             },
             {
-                texto: "resposta 2",
-                afirmacao: "afirmacao"            
+                texto: "B)Reciclando papéis, jornais e revistas",
+                afirmacao: "Certo"            
             },
             {
-                texto: "resposta 3",
-                afirmacao: "afirmacao"
+                texto: "C) Apoiar a causa LGBTQIA+",
+                afirmacao: "Errado"
             },
             
         ]
     },
     {
-        enunciado: "pergunta 3",
+        enunciado: "O que é Ecologia",
         alternativas: [
             {
             
-                texto: "resposta 1",
-                afirmacao: "afirmacao"
+                texto: "A)ciência que estuda a vida e os organismos vivos",
+                afirmacao: "Errado"
             },
             {
-                texto: "resposta 2",
-                afirmacao: "afirmacao"            
+                texto: "B)é a ciência que estuda as relações dos seres vivos entre si e com o seu ambiente.",
+                afirmacao: "Certo"            
             },
             {
-                texto: "resposta 3",
-                afirmacao: "afirmacao"
+                texto: "C)é uma das ciências humanas que estuda a sociedade",
+                afirmacao: "Errado"
             },
             
         ]
